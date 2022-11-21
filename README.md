@@ -6,3 +6,7 @@ Dyanmo 의 기존 기능에도 모델 데이터를 직렬화 할 수 있지만, 
 
 <img src="https://github.com/JeongYire/DynamoRevit-ExportModelData/blob/master/ScreenShot.png" />
 
+다이나모의 구조는 이러합니다.
+
+
+
